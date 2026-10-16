@@ -1,0 +1,16 @@
+{
+  "name": "Manajemen Armada Bus Sekolah - UPAS",
+  "short_name": "Fleet UPAS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%2309090b'/><path d='M112 112c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V160c0-26.5-21.5-48-48-48H112zm32 48h224v80H144v-80zm0 112h224v64H144v-64z' fill='%23f59e0b'/><circle cx='160' cy='384' r='32' fill='%23f59e0b'/><circle cx='352' cy='384' r='32' fill='%23f59e0b'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
